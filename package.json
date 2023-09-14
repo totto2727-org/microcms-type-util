@@ -2,9 +2,9 @@
   "name": "@totto2727/microcms-type-util",
   "author": "totto2727 <kaihatu.totto2727@gmail.com>",
   "description": "Enhance microCMS type definitions",
-  "homepage": "https://github.com/totto2727-org/esm-package#readme",
+  "homepage": "https://github.com/totto2727-org/microcms-type-util#readme",
   "bugs": {
-    "url": "https://github.com/totto2727-org/esm-package/issues"
+    "url": "https://github.com/totto2727-org/microcms-type-util/issues"
   },
   "keywords": [],
   "license": "MIT",
