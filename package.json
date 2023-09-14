@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "deploy": "",
     "build": "bun run build:transpile && bun run build:decolation",
@@ -22,7 +22,9 @@
     "precommit": "bun run check:type && bun run fix && bun run test && bun run build"
   },
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "exports": {
     ".": {
       "import": {
