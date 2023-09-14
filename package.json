@@ -1,7 +1,7 @@
 {
-  "name": "@totto2727/esm-package",
+  "name": "@totto2727/microcms-type-util",
   "author": "totto2727 <kaihatu.totto2727@gmail.com>",
-  "description": "",
+  "description": "Enhance microCMS type definitions",
   "homepage": "https://github.com/totto2727-org/esm-package#readme",
   "bugs": {
     "url": "https://github.com/totto2727-org/esm-package/issues"
@@ -31,7 +31,10 @@
       }
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "@totto2727/result": "^0.1.8",
+    "microcms-js-sdk": "^2.6.1"
+  },
   "devDependencies": {
     "@biomejs/biome": "1.1.2",
     "bun-types": "^1.0.1",

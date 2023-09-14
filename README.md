@@ -1,1 +1,1 @@
-# esm-package
+# microcms-type-util
