@@ -38,7 +38,7 @@
     "microcms-js-sdk": "^2.6.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.1.2",
+    "@biomejs/biome": "1.5.3",
     "bun-types": "^1.0.1",
     "typescript": "5.2.2"
   }
