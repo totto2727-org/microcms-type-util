@@ -34,7 +34,7 @@
     }
   },
   "dependencies": {
-    "@totto2727/result": "^0.1.8",
+    "@totto2727/result": "^0.6.0",
     "microcms-js-sdk": "^2.6.1"
   },
   "devDependencies": {
